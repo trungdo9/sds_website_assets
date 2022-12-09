@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-articles-tsx",
+    "path": "/articles/page/7/",
+    "result": {"data":{"allPostsJson":{"edges":[{"node":{"id":"6e0a74d2-a834-5ae1-b68e-0542efbe47d6","title":"Why do Batteries Require a Safety Data Sheet","fields":{"slug":"/articles/why-do-batteries-require-a-safety-data-sheet/"},"date":"2022-01-07","excerpt":"Batteries are used extensively throughout the power grid to ensure that crucial electrical equipment is always on.","image":"/images/articles/Post43A.jpg","category":"ARTICLE"}}]}},"pageContext":{"originalPath":"/articles/page/7/","lang":"en","limit":7,"skip":42,"total":43,"currentPage":6,"blogPerPage":7,"dir":"en"}},
+    "staticQueryHashes": ["2695443777"]}
