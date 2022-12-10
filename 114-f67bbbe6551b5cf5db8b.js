@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksds_archive_website=self.webpackChunksds_archive_website||[]).push([[114],{3114:function(e,s,a){a.r(s);var r=a(5900),i=a.n(r),n=a(257),t=a(9541),c=a(1312);const f=n.forwardRef(((e,s)=>{let{bsPrefix:a,variant:r,animation:n="border",size:f,as:d="div",className:l,...u}=e;a=(0,t.vE)(a,"spinner");const b=`${a}-${n}`;return(0,c.tZ)(d,{ref:s,...u,className:i()(l,b,f&&`${b}-${f}`,r&&`text-${r}`)})}));f.displayName="Spinner",s.default=f}}]);
+//# sourceMappingURL=114-f67bbbe6551b5cf5db8b.js.map
